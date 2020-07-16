@@ -1,0 +1,17 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Sample project
+
+## Media
+
+### Title
+panorama_54821D45_589B_FB7D_41C9_F9551A3E0301.label = stitched
+panorama_5CA673C7_576B_EF7C_41D0_35AC2426E005.label = stitched
+
+## Popup
+
+### Body
+htmlText_41F2520B_589B_28F5_41B8_0E1CB365C0EB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:22px;font-family:'Akzidenz-Grotesk BQ';"><B>Product name</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><br/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;font-family:'Open Sans Light';">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit amet ultricies nibh. Sed eget nunc faucibus, dictum nibh rutrum, ultrices eros. Nam urna neque, hendrerit nec magna vitae, interdum iaculis nisi. Quisque a orci tempus, ornare leo quis, mattis velit. Phasellus facilisis malesuada tellus nec aliquam. Duis molestie, libero sit amet dignissim vehicula, nulla ligula scelerisque eros, eu lobortis purus purus id est. Phasellus facilisis ullamcorper posuere. Fusce ut felis sit amet nulla facilisis pretium. Praesent sem purus, cursus pellentesque risus a, efficitur tempor lacus. Donec pulvinar lacinia sem pharetra ultrices. Donec pharetra urna augue, a finibus nisl tristique vitae. Duis sed placerat lectus, nec tincidunt lorem.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><br/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.lg.com/hk_en/tv/lg-OLED77CXPCA" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#990000;font-family:'Akzidenz-Grotesk BQ';"><B>Buy now</B></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
